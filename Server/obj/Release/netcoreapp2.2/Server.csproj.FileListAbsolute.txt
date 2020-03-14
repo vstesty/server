@@ -1,0 +1,11 @@
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\bin\Release\netcoreapp2.2\Server.deps.json
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\bin\Release\netcoreapp2.2\Server.runtimeconfig.json
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\bin\Release\netcoreapp2.2\Server.runtimeconfig.dev.json
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\bin\Release\netcoreapp2.2\Server.dll
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\bin\Release\netcoreapp2.2\Server.pdb
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\obj\Release\netcoreapp2.2\Server.csprojAssemblyReference.cache
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\obj\Release\netcoreapp2.2\Server.csproj.CoreCompileInputs.cache
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\obj\Release\netcoreapp2.2\Server.AssemblyInfoInputs.cache
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\obj\Release\netcoreapp2.2\Server.AssemblyInfo.cs
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\obj\Release\netcoreapp2.2\Server.dll
+C:\Users\Becia\Desktop\DS\MultiClientServer\Server\Server\obj\Release\netcoreapp2.2\Server.pdb
